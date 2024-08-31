@@ -1,0 +1,47 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CladeTyping", "CladeTyping.csproj", "{027C8C75-3E90-4A7F-BB17-23D672B51649}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CladeTyingTest", "..\CladeTyingTest\CladeTyingTest.csproj", "{2FA20521-23AB-4C55-822C-9ECDDE892EB1}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CladeTypingSetup", "..\CladeTypingSetup\CladeTypingSetup.vdproj", "{4A63E2CC-C20F-417C-9809-21D8880EED3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{027C8C75-3E90-4A7F-BB17-23D672B51649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{027C8C75-3E90-4A7F-BB17-23D672B51649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{027C8C75-3E90-4A7F-BB17-23D672B51649}.Debug|x64.ActiveCfg = Debug|x64
+		{027C8C75-3E90-4A7F-BB17-23D672B51649}.Debug|x64.Build.0 = Debug|x64
+		{027C8C75-3E90-4A7F-BB17-23D672B51649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{027C8C75-3E90-4A7F-BB17-23D672B51649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{027C8C75-3E90-4A7F-BB17-23D672B51649}.Release|x64.ActiveCfg = Release|x64
+		{027C8C75-3E90-4A7F-BB17-23D672B51649}.Release|x64.Build.0 = Release|x64
+		{2FA20521-23AB-4C55-822C-9ECDDE892EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA20521-23AB-4C55-822C-9ECDDE892EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FA20521-23AB-4C55-822C-9ECDDE892EB1}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2FA20521-23AB-4C55-822C-9ECDDE892EB1}.Debug|x64.Build.0 = Debug|Any CPU
+		{2FA20521-23AB-4C55-822C-9ECDDE892EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FA20521-23AB-4C55-822C-9ECDDE892EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FA20521-23AB-4C55-822C-9ECDDE892EB1}.Release|x64.ActiveCfg = Release|Any CPU
+		{2FA20521-23AB-4C55-822C-9ECDDE892EB1}.Release|x64.Build.0 = Release|Any CPU
+		{4A63E2CC-C20F-417C-9809-21D8880EED3C}.Debug|Any CPU.ActiveCfg = Debug
+		{4A63E2CC-C20F-417C-9809-21D8880EED3C}.Debug|x64.ActiveCfg = Debug
+		{4A63E2CC-C20F-417C-9809-21D8880EED3C}.Release|Any CPU.ActiveCfg = Release
+		{4A63E2CC-C20F-417C-9809-21D8880EED3C}.Release|x64.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78B7310D-B6F8-4D1F-B6A5-A0F8B5C4C6A8}
+	EndGlobalSection
+EndGlobal
